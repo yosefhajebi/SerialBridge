@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<AppConfig>
+	<Trigger>
+		<Port>5355</Port>
+	</Trigger>
+
+
+	<SerialPorts>
+		<SerialPortConfig>
+			<Name>COM3</Name>
+			<BaudRate>2400</BaudRate>
+			<DataBits>8</DataBits>
+			<Parity>0</Parity>
+			<StopBits>1</StopBits>
+			<Handshake>0</Handshake>
+			<TimeOut>10000</TimeOut>
+			<DecimalPlaces>0</DecimalPlaces>
+		</SerialPortConfig>
+		<!--<SerialPortConfig>
+			<Name>COM4</Name>
+			<BaudRate>115200</BaudRate>
+		</SerialPortConfig>-->
+	</SerialPorts>
+
+
+	<TcpTargets>
+		<TcpTarget>
+			<Ip>127.0.0.1</Ip>
+			<Port>5050</Port>
+		</TcpTarget>
+		<!--<TcpTarget>
+			<Ip>192.168.1.60</Ip>
+			<Port>6000</Port>
+		</TcpTarget>-->
+	</TcpTargets>
+
+
+	<Logging>
+		<FilePath>logs\SerialService.log</FilePath>
+	</Logging>
+</AppConfig>

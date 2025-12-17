@@ -1,0 +1,8 @@
+D:\NOE\TSM\SerialBridgeService\SerialBridgeService\SerialBridgeService\bin\Release\SerialBridgeService.exe.config
+D:\NOE\TSM\SerialBridgeService\SerialBridgeService\SerialBridgeService\bin\Release\SerialBridgeService.exe
+D:\NOE\TSM\SerialBridgeService\SerialBridgeService\SerialBridgeService\bin\Release\SerialBridgeService.pdb
+D:\NOE\TSM\SerialBridgeService\SerialBridgeService\SerialBridgeService\obj\Release\SerialBridgeService.exe
+D:\NOE\TSM\SerialBridgeService\SerialBridgeService\SerialBridgeService\obj\Release\SerialBridgeService.pdb
+D:\NOE\TSM\SerialBridgeService\SerialBridgeService\SerialBridgeService\bin\Release\Newtonsoft.Json.dll
+D:\NOE\TSM\SerialBridgeService\SerialBridgeService\SerialBridgeService\bin\Release\Newtonsoft.Json.xml
+D:\NOE\TSM\SerialBridgeService\SerialBridgeService\SerialBridgeService\obj\Release\SerialBridgeService.csprojResolveAssemblyReference.cache

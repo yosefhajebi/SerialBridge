@@ -1,0 +1,56 @@
+﻿2025-12-02 15:00:18  Trigger received: SEND:com3
+2025-12-02 15:00:18  Serial port opened: COM3
+2025-12-02 15:00:44  Read stable weight 28.68 from COM3
+2025-12-02 15:00:44  Sent weight 28.68 to TCP client
+2025-12-02 15:01:49  Service started.
+2025-12-02 15:01:49  Trigger listener started on port 5050
+2025-12-02 15:01:56  Trigger received: SEND:com3
+2025-12-02 15:01:56  Serial port opened: COM3
+2025-12-02 15:02:16  Read stable weight 21.02 from COM3
+2025-12-02 15:02:16  Sent weight 21.02 to TCP client
+2025-12-02 15:02:29  Trigger received: SEND:com3
+2025-12-02 15:02:29  Serial port opened: COM3
+2025-12-02 15:02:49  Read stable weight 20.25 from COM3
+2025-12-02 15:02:49  Sent weight 20.25 to TCP client
+2025-12-02 15:03:03  Trigger received: SEND:com3
+2025-12-02 15:03:03  Serial port opened: COM3
+2025-12-02 15:03:26  Read stable weight 20.28 from COM3
+2025-12-02 15:03:29  Sent weight 20.28 to TCP client
+2025-12-02 15:05:54  Service started.
+2025-12-02 15:05:54  Trigger listener started on port 5050
+2025-12-02 15:06:01  Trigger received: SEND:com3
+2025-12-02 15:06:01  Serial port opened: COM3
+2025-12-02 15:06:21  Read stable weight -1 from COM3
+2025-12-02 15:06:21  Sent weight -1 to TCP client
+2025-12-02 15:10:10  Service started.
+2025-12-02 15:10:10  Trigger listener started on port 5050
+2025-12-02 15:10:13  Trigger received: SEND:com3
+2025-12-02 15:10:13  Serial port opened: COM3
+2025-12-02 15:10:24  Read stable weight -1 from COM3
+2025-12-02 15:10:24  Sent weight -1 to TCP client
+2025-12-02 15:10:29  Trigger received: SEND:com3
+2025-12-02 15:10:29  Serial port opened: COM3
+2025-12-02 15:11:17  Service started.
+2025-12-02 15:11:17  Trigger listener started on port 5050
+2025-12-02 15:11:25  Trigger received: SEND:com3
+2025-12-02 15:11:25  Serial port opened: COM3
+2025-12-02 15:11:42  Read stable weight -1 from COM3
+2025-12-02 15:11:42  Sent weight -1 to TCP client
+2025-12-02 15:13:48  Service started.
+2025-12-02 15:13:48  Trigger listener started on port 5050
+2025-12-02 15:14:02  Trigger received: SEND:com3
+2025-12-02 15:14:03  Serial port opened: COM3
+2025-12-02 15:14:26  Read stable weight -1 from COM3
+2025-12-02 15:14:29  Sent weight -1 to TCP client
+2025-12-02 15:14:36  Trigger received: SEND:com3
+2025-12-02 15:14:37  Serial port opened: COM3
+2025-12-02 15:17:29  Service started.
+2025-12-02 15:17:29  Trigger listener started on port 5050
+2025-12-02 15:17:31  Trigger received: SEND:com3
+2025-12-02 15:17:31  Serial port opened: COM3
+2025-12-02 15:18:08  Service started.
+2025-12-02 15:18:08  Trigger listener started on port 5050
+2025-12-02 15:18:09  Trigger received: SEND:com3
+2025-12-02 15:18:09  Serial port opened: COM3
+2025-12-02 15:19:04  Read stable weight -1 from COM3
+2025-12-02 15:19:04  Sent weight -1 to TCP client
