@@ -1,0 +1,74 @@
+# Build Folders
+bin/
+obj/
+Debug/
+Release/
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Rider IDE
+.idea/
+
+# VS Code
+.vscode/
+
+# Packages
+*.nupkg
+packages/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Ignore compiled output, but keep source code
+!*.cs
+!*.config
+!*.resx
+!*.xaml
+!*.xml
+!*.txt
+
+# Ignore dlls and exes from build
+*.dll
+*.exe
+
+# Ignore all other binary files
+*.pdb
+*.mdb
+*.lib
+*.obj
+*.o
+*.so
+*.a
+*.out
+SerialBridgeService.v12.suo
+SerialBridgeService/bin/Debug/SerialBridgeService.exe
+SerialBridgeService/bin/Debug/SerialBridgeService.pdb
+SerialBridgeService/bin/Release/SerialBridgeService.exe
+SerialBridgeService/bin/Release/SerialBridgeService.pdb
+SerialBridgeService/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+SerialBridgeService/obj/Debug/SerialBridgeService.csproj.FileListAbsolute.txt
+SerialBridgeService/obj/Debug/SerialBridgeService.csprojResolveAssemblyReference.cache
+SerialBridgeService/obj/Debug/SerialBridgeService.exe
+SerialBridgeService/obj/Debug/SerialBridgeService.pdb
+SerialBridgeService/obj/Release/SerialBridgeService.csproj.FileListAbsolute.txt
+SerialBridgeService/obj/Release/SerialBridgeService.csprojResolveAssemblyReference.cache
+SerialBridgeService/obj/Release/SerialBridgeService.exe
+SerialBridgeService/obj/Release/SerialBridgeService.pdb
