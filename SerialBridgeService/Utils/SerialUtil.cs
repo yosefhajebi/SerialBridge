@@ -317,7 +317,7 @@ namespace SerialBridgeService.Utils
 
 		private int _currentDecimalPlaces;
 
-		private const int STABLE_SAMPLE_COUNT = 3;       // حداقل نمونه پایدار
+		private const int STABLE_SAMPLE_COUNT = 10;       // حداقل نمونه پایدار
 		private const decimal STABLE_TOLERANCE = 0.3m;  // دامنه تغییرات
 		private const int STABLE_TIME_MS = 500;         // حداقل مدت زمان برای پایدار بودن
 
