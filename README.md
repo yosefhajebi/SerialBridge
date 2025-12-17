@@ -139,4 +139,3 @@ serial.Dispose();
 2025-12-17 13:01:59  Read stable weight -1 from COM3
 
 
-این نسخه از README آماده انتشار در GitHub است و تمام جزئیات مهم پروژه را شامل می‌شود.
